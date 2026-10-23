@@ -1,7 +1,4 @@
 # Laboratorios de Python
-
-**Aprendiz:** Juliana Baldion · **Ficha:** 3388087 · **Programa:** ADSO (SENA)
-
 Repositorio personal que se usará durante los cuatro laboratorios de Python. Cada laboratorio está en su propia carpeta.
 
 | Laboratorio | Tema | Carpeta | Programa principal |
